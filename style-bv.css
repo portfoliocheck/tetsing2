@@ -300,7 +300,7 @@ body, .container1, .video-controls, .video-timer, .options{
   background: linear-gradient(to top, rgba(0, 0, 0, 0.7), transparent);
 }
 .video-timeline{
-  height: 7px;
+  height: 1px;
   width: 100%;
   cursor: pointer;
 }

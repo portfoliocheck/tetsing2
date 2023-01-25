@@ -343,7 +343,7 @@ body, .container1, .video-controls, .video-timer, .options{
   display: block;
 }
 .wrapper .video-controls{
-  padding: 5px 20px 10px;
+  padding: 5px 20px 1px;
 }
 .video-controls .options{
   width: 100%;

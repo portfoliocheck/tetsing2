@@ -402,7 +402,7 @@ body, .container1, .video-controls, .video-timer, .options{
 }
 .playback-content .speed-options{
   position: absolute;
-  list-style: none;
+  list-style: disc;
   left: -40px;
   bottom: 40px;
   width: 105px;
